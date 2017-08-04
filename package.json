@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-scm",
+  "version": "1.0.7",
+  "description": "Common code style for scm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.elenet.me/scmweb/eslint-config-scm"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslintconfigscm"
+  ],
+  "author": "cloudIC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://git.elenet.me/scmweb/eslint-config-scm/issues"
+  },
+  "homepage": "https://git.elenet.me/scmweb/eslint-config-scm#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
