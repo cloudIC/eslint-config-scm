@@ -9,7 +9,7 @@ At present, the internal project of the group is mainly personal maintenance and
 # Rules
 Most concerned:
 - tab：`2 space`
-- semicolon：`required`
+- semicolon：`never`
 
 # How to use
 ### First install dependencies
