@@ -15,6 +15,6 @@ module.exports = {
   parser,
   parserOptions,
   rules,
-  plugins: ['vue'],
+  plugins: ['vue', 'html'],
   extends: ['eslint:recommended'],
 };

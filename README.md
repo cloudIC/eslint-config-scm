@@ -21,7 +21,7 @@ npm install --save-dev eslint babel-eslint eslint-config-scm
 
 #### vue
 ```shell
-npm install --save-dev eslint babel-eslint eslint-plugin-vue eslint-config-scm
+npm install --save-dev eslint babel-eslint eslint-plugin-vue eslint-plugin-html eslint-config-scm
 ```
 
 #### react
