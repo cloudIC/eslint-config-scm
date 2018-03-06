@@ -39,6 +39,11 @@ npm install --save-dev eslint babel-eslint eslint-config-angular eslint-config-s
 npm install --save-dev eslint babel-eslint eslint-config-react-native eslint-config-scm
 ```
 
+### typescript
+```shell
+npm install --save-dev eslint typescript-eslint-parser eslint-plugin-typescript
+```
+
 ### Then modify config file
 Make a eslint config file(recommend `.eslintrc.js`) then add the following configuration:
 ```js
@@ -69,6 +74,12 @@ Make a eslint config file(recommend `.eslintrc.js`) then add the following confi
 // react-native
 {
   extends: 'scm/react-native'
+}
+```
+```js
+// typescript
+{
+  extends: 'scm/typescript'
 }
 ```
 
